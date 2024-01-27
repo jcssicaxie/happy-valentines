@@ -6,9 +6,9 @@ body {
     background-color: #F8C8DC;
 }
 
-.header_text {
+.headertext {
     font-family: 'Nunito';
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -20,4 +20,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.gif_container img {
+    width: 900px;
+    height: auto;
 }
